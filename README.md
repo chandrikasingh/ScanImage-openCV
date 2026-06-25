@@ -1,1 +1,2 @@
-# ScanImage-openCV in customised version
+# ScanImage -lib
+openCV in customised version
