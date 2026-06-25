@@ -1,1 +1,1 @@
-# ScanImage-openCV 
+# ScanImage-openCV in customised version
